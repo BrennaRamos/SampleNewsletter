@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Stewie Griffin",
+      "email": "stewie@this.com"
+    },
+    {
+      "id": 3,
+      "name": "Melissa Doug",
+      "email": "melissa@that.com"
+    },
+    {
+      "id": 4,
+      "name": "Mario Luigi",
+      "email": "mario@that.com"
+    },
+    {
+      "name": "Veronica Grump",
+      "email": "grump@vero.com",
+      "id": 6
+    },
+    {
+      "name": "Sofia Vergara",
+      "email": "vergara@sofia.com",
+      "id": 7
+    }
+  ],
+  "favicon.ico": []
+}
