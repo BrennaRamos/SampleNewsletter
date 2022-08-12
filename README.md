@@ -23,7 +23,9 @@ https://angular.io/guide/setup-local
 5. Run these commands in Terminal:
 
 npm install -g @angular/cli
+
 npm install --legacy-peer-deps
+
 npm audit fix --force
 
 These set of commands will install the workspace in the root folder, make sure that the required dependencies are installed, and it will also force some fixes onto those installations. 
